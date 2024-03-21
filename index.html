@@ -3,35 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to My Portfolio</title>
-    <link rel="stylesheet" href="styles_index.css">
+    <title>Jinhu Qi's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>Welcome to My Portfolio</h1>
-        <nav>
+    <nav>
+        <div class="container">
+            <h1 class="logo">Jinhu Qi</h1>
             <ul>
-                <li><a href="resume.html">Resume</a></li>
+                <li><a href="#resume">Resume</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
-        </nav>
+        </div>
+    </nav>
+
+    <header>
+        <div class="container header-inner">
+            <h1>Welcome to My Portfolio</h1>
+            <p>I am a Data Scientist and Analytics Expert based in Los Angeles.</p>
+        </div>
     </header>
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Hello, I'm a graduate from USC with a Master's in Science and majoring in analytics. Welcome to my personal portfolio where I showcase my projects and skills.</p>
-    </section>
-    <section id="projects">
-        <h2>Projects</h2>
-        <!-- Add your projects here -->
-    </section>
-    <section id="contact">
-        <h2>Contact</h2>
-        <!-- Add your contact information here -->
-    </section>
+
+    <div class="container">
+        <section id="about-me">
+            <h2>About Me</h2>
+            <p>Hello, I'm Jinhu Qi, a USC graduate with a Master's in Science and a major in analytics. This portfolio is a showcase of my projects and skills developed through rigorous academic training and professional experience.</p>
+        </section>
+
+        <section id="resume">
+            <h2>Resume</h2>
+            <p>My academic background and hands-on experience in the field of data science have equipped me with a solid foundation in data analysis, machine learning, and the application of predictive models to solve real-world problems.</p>
+            <li><a href="resume.html">Resume</a></li>
+        </section>
+
+        <section id="projects">
+            <h2>Featured Projects</h2>
+            <p>Here are some of the projects I've worked on that demonstrate my capability to translate data into actionable insights.</p>
+            <!-- Projects list -->
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>If you are interested in hiring me or discussing potential projects, please don't hesitate to reach out through the contact information provided below.</p>
+            <!-- Contact information -->
+        </section>
+    </div>
+
     <footer>
-        <p>Copyright © Your Name. All Rights Reserved.</p>
+        <div class="container">
+            <p>Copyright &copy; 2024 Jinhu Qi. All Rights Reserved.</p>
+        </div>
     </footer>
-    <script src="script.js"></script>
 </body>
 </html>
