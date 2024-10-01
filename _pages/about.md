@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-T# 👋 Hello, I'm Jinhu Qi!
+# 👋 Hello, I'm Jinhu Qi!
 
 🔬 **PhD Aspirant | AI & LLM Enthusiast | Researcher in Misinformation Detection**
 
