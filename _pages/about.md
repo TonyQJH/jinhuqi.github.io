@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 🔬 **PhD Aspirant** | **AI & LLM Enthusiast** | **Researcher in Language Translation & Misinformation Detection**
+![Machine Translation in AI by geeksforgeeks](https://media.geeksforgeeks.org/wp-content/uploads/20231226141038/Machine-Translation-Model.png){: .align-right width="300px"}
 
 Welcome to my corner of the web! I’m Jinhu, a passionate researcher focused on **Large Language Models (LLMs)**, **Chain of Thought**, and **Retrieval-Augmented Generation (RAG)** techniques. My work aims to bridge communication gaps across different languages and cultural backgrounds. 🚀
 
