@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=chfNrdYAAAAJ&hl=en
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -21,7 +21,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/Curriculum Vitae_JinhuQi.docx.pdf
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
