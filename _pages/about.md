@@ -13,7 +13,7 @@ redirect_from:
 Welcome to my corner of the web! I’m Jinhu, a passionate researcher focused on **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)** techniques. My work aims to bridge communication gaps across different languages and cultural backgrounds. 🚀
 
 ## 🧑‍💻 What I Do
-I'm currently a visiting researcher at **HUMANS LAB**, created by [Professor Emilio Ferrara](https://www.emilio.ferrara.science/) at the University of Southern California (USC). My work in the lab, centered around **misinformation detection** on social media platforms like **YouTube** and **4chan**, has deeply influenced my passion for pursuing a PhD in 2025. 🎓
+I'm currently a visiting researcher at **HUMANS LAB**, created by [Professor Emilio Ferrara](http://www.emilio.ferrara.name/) at the University of Southern California (USC). My work in the lab, centered around **misinformation detection** on social media platforms like **YouTube** and **4chan**, has deeply influenced my passion for pursuing a PhD in 2025. 🎓
 
 Professor Ferrara's guidance and insights into AI and social impact have inspired my current and future research direction, focusing on:
 - **Detecting and mitigating misinformation in social media** 🕵️‍♂️
