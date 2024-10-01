@@ -18,7 +18,7 @@ I'm currently a visiting researcher at **HUMANS LAB**, created by [Professor Emi
 Professor Ferrara's guidance and insights into AI and social impact have inspired my current and future research direction, focusing on:
 - **Detecting and mitigating misinformation in social media** 🕵️‍♂️
 - **Leveraging LLMs and RAG techniques** to improve communication across different languages and cultural contexts 🌏
-- **Using AI for social good**, specifically in bridging cross-cultural communication gaps 💬
+- **Using AI with LLMs for social good**, specifically in bridging cross-cultural communication gaps 💬
 
 ### 🎯 PhD 2025 Applications:
 I’m actively applying for a PhD program in 2025, with research interests deeply rooted in the transformative potential of **LLMs**, **RAG**, **knowledge graphs**, and **AI governance**. My goal is to contribute to **AI transparency** and **interpretability**, reducing the risk of hallucinations in LLMs and enhancing **social media safety**.
@@ -28,9 +28,9 @@ I’m actively applying for a PhD program in 2025, with research interests deepl
 - **Bachelor of Science in Computer & Information Science**, University of Oregon 🦆 (with a minor in Korean!)
 
 ## 🔍 Research Focus:
-- **Large Language Models (LLMs)** & **Retrieval-Augmented Generation (RAG)** techniques for smarter communication 💬
+- **Large Language Models (LLMs)** & **Retrieval-Augmented Generation (RAG)** & **Chain of Thought (CoT)** techniques for smarter communication 💬
 - Detecting misinformation and offensive content on social media platforms 🕵️‍♂️
-- Using **knowledge graphs** and **vector databases** to improve AI reasoning 🧠
+- Using **knowledge graphs**, **vector databases**, and **Chain of Thought** to improve AI reasoning 🧠
 
 ## 📈 Latest Projects
 - **Graph-RAG**: Integrating knowledge graphs for better interpretability and transparency in AI 🤖
