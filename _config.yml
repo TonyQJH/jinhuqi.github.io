@@ -24,26 +24,26 @@ author:
   avatar           : "jinhuqi.png"
   name             : "Jinhu Qi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Jinhu Qi is a visiting researcher at the HUMANS LAB at the University of Southern California, under the mentorship of Professor Emilio Ferrara. His research centers on Large Language Models (LLMs) applications, particularly in Retrieval-Augmented Generation (RAG) using vector databases and knowledge graphs. Jinhu also explores Chain of Thought (CoT) reasoning, language translation, and misinformation detection. With a Master's in Analytics from USC and a Bachelor's in Computer and Information Science from the University of Oregon, he is currently pursuing a PhD for 2025 to further advance his research in these areas."
   location         : "Los Angeles, CA"
-  employer         : "Red Brick University"
+  employer         : "University of Southern California"
   uri              : # URL
   email            : "qijinhu1218@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=chfNrdYAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "TonyQJH"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : jinhu-qi
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
