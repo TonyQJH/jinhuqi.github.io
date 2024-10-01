@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Fine-tuning LLMs for Enhanced Tourism Recommendations in Tibet"
+excerpt: "Addressing hallucination issues in LLMs to improve tourism recommendations in Tibet.<br/><img src='/images/tibet_finetuing.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Since May 2024, I have joined Professor Wang Ke's lab at Sichuan University to integrate LLMs with Tibet tourism. One significant challenge we faced was the **hallucination problem**, where LLMs produced irrelevant or inaccurate responses due to a lack of information about unfamiliar attractions.
+
+To solve this, I fine-tuned LLMs to improve their alignment with tourist needs and local attractions. By collecting descriptions of all tourist attractions in Tibet from the web and fine-tuning the model, I improved hotel information extraction accuracy from **0.47 to 0.98**. Comparative experiments using fine-tuning methods like SFT and ORPO resulted in an average score of **80** in accuracy, relevance, and fluency. The fine-tuned models significantly reduced hallucinations compared to baseline models. 
+
+Our work was accepted at the **ICWOC 2024** conference, and we are now exploring **RAG** techniques for further optimization.
