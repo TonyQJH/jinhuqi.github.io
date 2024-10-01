@@ -10,7 +10,7 @@ redirect_from:
 
 🔬 **PhD Aspirant** | **AI & LLM Enthusiast** | **Researcher in Language Translation & Misinformation Detection**
 
-Welcome to my corner of the web! I’m Jinhu, a passionate researcher focused on **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)** techniques. My work aims to bridge communication gaps across different languages and cultural backgrounds. 🚀
+Welcome to my corner of the web! I’m Jinhu, a passionate researcher focused on **Large Language Models (LLMs)**, **Chain of Thought**, and **Retrieval-Augmented Generation (RAG)** techniques. My work aims to bridge communication gaps across different languages and cultural backgrounds. 🚀
 
 ## 🧑‍💻 What I Do
 I'm currently a visiting researcher at **HUMANS LAB**, created by [Professor Emilio Ferrara](http://www.emilio.ferrara.name/) at the University of Southern California (USC). My work in the lab, centered around **misinformation detection** on social media platforms like **YouTube** and **4chan**, has deeply influenced my passion for pursuing a PhD in 2025. 🎓
@@ -42,7 +42,7 @@ I’m actively applying for a PhD program in 2025, with research interests deepl
 - **[RAG-Optimized Tibetan Tourism LLMs](https://arxiv.org/abs/2408.12003)**, AIPR 2024
 
 ## 🛠️ Technical Skills:
-- **Python**, **Machine Learning**, **Neo4j**, **Graph RAG**, **LangChain**
+- **Python**, **Machine Learning**, **Neo4j**, **Graph RAG**,**Chain of Thought**, **LangChain**
 - Pre-training and fine-tuning LLMs using **SFT/ORPO/KTO**
 
 ## 📬 Let’s Connect!
@@ -51,4 +51,4 @@ I’m always excited to discuss research ideas, collaborations, or just chat abo
 _“Innovating today for a more connected, transparent, and efficient tomorrow!”_ 🌟
 
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
