@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🔬 **PhD Aspirant** | **AI & LLM Enthusiast** | **Researcher in Misinformation Detection**
+🔬 **PhD Aspirant** | **AI & LLM Enthusiast** | **Researcher in Language Translation & Misinformation Detection**
 
 Welcome to my corner of the web! I’m Jinhu, a passionate researcher focused on **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)** techniques. My work aims to bridge communication gaps across different languages and cultural backgrounds. 🚀
 
