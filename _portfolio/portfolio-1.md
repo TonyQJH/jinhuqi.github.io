@@ -1,6 +1,6 @@
 ---
 title: "Fine-tuning LLMs for Enhanced Tourism Recommendations in Tibet"
-excerpt: "Addressing hallucination issues in LLMs to improve tourism recommendations in Tibet<br/><img src='/images/tibet_finetuing.png'>"
+excerpt: "Addressing hallucination issues in LLMs to improve tourism recommendations in Tibet<br/><img src='https://tonyqjh.github.io/jinhuqi.github.io/images/tibet_finetuing.png'>"
 collection: portfolio
 ---
 ![WorkFlow](/images/tibet_finetuing.png){: .align-right width="300px"}
