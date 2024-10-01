@@ -42,11 +42,11 @@ I’m actively applying for a PhD program in 2025, with research interests deepl
 - **[RAG-Optimized Tibetan Tourism LLMs](https://arxiv.org/abs/2408.12003)**, AIPR 2024
 
 ## 🛠️ Technical Skills:
-- **Python**, **Machine Learning**, **Neo4j**, **Graph RAG**,**Chain of Thought**, **LangChain**
-- Pre-training and fine-tuning LLMs using **SFT/ORPO/KTO**
+- **Python**, **Machine Learning**, **Neo4j**, **Graph RAG**, **Vector Database**, **Chain of Thought**, **LangChain**
+- Pre-training and fine-tuning LLMs using **SFT/ORPO**
 
 ## 📬 Let’s Connect!
-I’m always excited to discuss research ideas, collaborations, or just chat about the future of AI. Feel free to [email me](mailto:jinhuqi@usc.edu) or explore my [publications](https://arxiv.org/abs/2407.13561) for more details.
+I’m always excited to discuss research ideas, collaborations, or just chat about the future of AI. Feel free to [email me](mailto:qijinhu1218@gmail.com) or explore my [publications](https://arxiv.org/abs/2407.13561) for more details.
 
 _“Innovating today for a more connected, transparent, and efficient tomorrow!”_ 🌟
 
