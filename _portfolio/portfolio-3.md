@@ -3,7 +3,7 @@ title: "Graph-RAG: Integrating Knowledge Graphs for Improved Interpretability"
 excerpt: "Using knowledge graphs to optimize hallucination issues in LLMs and improve interpretability.<br/><img src='https://tonyqjh.github.io/jinhuqi.github.io/images/tibet_graphrag.png'>"
 collection: portfolio
 ---
-![WorkFlow](https://tonyqjh.github.io/jinhuqi.github.io/images/tibet_graphrag.png){: .align-right width="300px"}
+![WorkFlow](https://tonyqjh.github.io/jinhuqi.github.io/images/tibet_graphrag.png)
 
 In collaboration with **Professor Wang**, I continued research on a project aimed at integrating **knowledge graphs** with **LLMs** to address the hallucination problem. Our goal was to transform the "black box" logic of LLMs into a more interpretable "white box" system, where users could understand how the model reaches its conclusions.
 

@@ -3,7 +3,7 @@ title: "Fine-tuning LLMs for Enhanced Tourism Recommendations in Tibet"
 excerpt: "Addressing hallucination issues in LLMs to improve tourism recommendations in Tibet<br/><img src='https://tonyqjh.github.io/jinhuqi.github.io/images/tibet_finetuing.png'>"
 collection: portfolio
 ---
-![WorkFlow](https://tonyqjh.github.io/jinhuqi.github.io/images/tibet_finetuing.png){: .align-right width="300px"}
+![WorkFlow](https://tonyqjh.github.io/jinhuqi.github.io/images/tibet_finetuing.png)
 
 Since May 2024, I have joined Professor Wang Ke's lab at Sichuan University to integrate LLMs with Tibet tourism. One significant challenge we faced was the **hallucination problem**, where LLMs produced irrelevant or inaccurate responses due to a lack of information about unfamiliar attractions.
 
