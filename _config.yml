@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jinhuqi.png"
+  avatar           : /images/jinhuqi.png
   name             : "Jinhu Qi"
   pronouns         : # example: "she/her"  
   bio              : "Jinhu Qi is a visiting researcher at the HUMANS LAB at the University of Southern California, under the mentorship of Professor Emilio Ferrara. His research centers on Large Language Models (LLMs) applications, particularly in Retrieval-Augmented Generation (RAG) using vector databases and knowledge graphs. Jinhu also explores Chain of Thought (CoT) reasoning, language translation, and misinformation detection. With a Master's in Analytics from USC and a Bachelor's in Computer and Information Science from the University of Oregon, he is currently pursuing a PhD for 2025 to further advance his research in these areas."
