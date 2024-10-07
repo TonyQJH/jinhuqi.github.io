@@ -1,6 +1,6 @@
 ---
 title: "Vector-RAG: Optimizing Hallucination Issues in LLMs through Retrieval Augmented Generation"
-excerpt: "Combining LLMs with vector databases to enhance recommendation systems and reduce hallucinations<br/><img src='/images/tibet_vectorRAG.jpg'>"
+excerpt: "Combining LLMs with vector databases to enhance recommendation systems and reduce hallucinations<br/><img src='https://tonyqjh.github.io/jinhuqi.github.io/images/tibet_vectorRAG.jpg'>"
 collection: portfolio
 ---
 ![WorkFlow](https://tonyqjh.github.io/jinhuqi.github.io/images/tibet_vectorRAG.jpg)
