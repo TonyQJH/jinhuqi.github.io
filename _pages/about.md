@@ -48,7 +48,7 @@ I am currently applying for PhD programs for Fall 2025, with the objective of ad
 
 ## Publications
 
-- **[Tibetan Tourism Viewpoints Information Generation System Based on LLM](https://arxiv.org/abs/2407.13561)**, ICWOC 2024  
+- **[Tibetan Tourism Viewpoints Information Generation System Based on LLM](https://ieeexplore.ieee.org/document/10684948)**, ICWOC 2024  
 - **[RAG-Optimized Tibetan Tourism LLMs](https://arxiv.org/abs/2408.12003)**, AIPR 2024  
 
 ## Technical Skills
