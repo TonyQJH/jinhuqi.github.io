@@ -11,45 +11,55 @@ redirect_from:
 🔬 **PhD Aspirant** | **AI & LLM Enthusiast** | **Researcher in Language Translation & Misinformation Detection**
 ![Machine Translation in AI by geeksforgeeks](https://media.geeksforgeeks.org/wp-content/uploads/20231226141038/Machine-Translation-Model.png)
 
-Welcome to my corner of the web! I’m Jinhu, a passionate researcher focused on **Large Language Models (LLMs)**, **Chain of Thought**, and **Retrieval-Augmented Generation (RAG)** techniques. My work aims to bridge communication gaps across different languages and cultural backgrounds. 🚀
+Welcome to my academic profile. I am Jinhu Qi, an aspiring PhD researcher with a deep focus on **Large Language Models (LLMs)**, **Chain of Thought (CoT)** reasoning, and **Retrieval-Augmented Generation (RAG)** techniques. My research addresses key challenges in multilingual communication and misinformation detection across social media platforms.
 
-## 🧑‍💻 What I Do
-I'm currently a visiting researcher at **HUMANS LAB**, created by [Professor Emilio Ferrara](http://www.emilio.ferrara.name/) at the University of Southern California (USC). My work in the lab, centered around **misinformation detection** on social media platforms like **YouTube** and **4chan**, has deeply influenced my passion for pursuing a PhD in 2025. 🎓
+## Research Interests
 
-Professor Ferrara's guidance and insights into AI and social impact have inspired my current and future research direction, focusing on:
-- **Detecting and mitigating misinformation in social media** 🕵️‍♂️
-- **Leveraging LLMs and RAG techniques** to improve communication across different languages and cultural contexts 🌏
-- **Using AI with LLMs for social good**, specifically in bridging cross-cultural communication gaps 💬
+As a visiting researcher at the **HUMANS LAB** at the University of Southern California (USC), led by [Professor Emilio Ferrara](http://www.emilio.ferrara.name/), I have explored the impact of **misinformation** on platforms such as **YouTube** and **4chan**. These experiences have been formative in shaping my PhD research trajectory, which will commence in 2025. My research interests include:
 
-### 🎯 PhD 2025 Applications:
-I’m actively applying for a PhD program in 2025, with research interests deeply rooted in the transformative potential of **LLMs**, **RAG**, **knowledge graphs**, and **AI governance**. My goal is to contribute to **AI transparency** and **interpretability**, reducing the risk of hallucinations in LLMs and enhancing **social media safety**.
+- **Misinformation detection and mitigation on social media**  
+- **Leveraging LLMs and RAG to facilitate cross-linguistic communication**  
+- **Improving AI transparency and governance** by addressing hallucination challenges in large models
 
-### 📚 Education:
-- **Master of Science in Analytics**, University of Southern California (USC) 🎓
-- **Bachelor of Science in Computer & Information Science**, University of Oregon 🦆 (with a minor in Korean!)
+### PhD Research Objectives
 
-## 🔍 Research Focus:
-- **Large Language Models (LLMs)** & **Retrieval-Augmented Generation (RAG)** & **Chain of Thought (CoT)** techniques for smarter communication 💬
-- Detecting misinformation and offensive content on social media platforms 🕵️‍♂️
-- Using **knowledge graphs**, **vector databases**, and **Chain of Thought** to improve AI reasoning 🧠
+I am currently applying for PhD programs for Fall 2025, with the objective of advancing research in AI, specifically within:
 
-## 📈 Latest Projects
-- **Graph-RAG**: Integrating knowledge graphs for better interpretability and transparency in AI 🤖
-- **Tibetan Tourism Recommender**: Solving LLM hallucination issues in smart tourism services 🏔️
-- **Misinformation Detection**: Detecting false content on platforms like YouTube and 4chan 🚨
+- **LLMs**, **RAG**, and **knowledge graphs** for enhanced reasoning and interpretability  
+- **AI governance** to improve transparency and prevent hallucinations in LLMs  
+- Utilizing **AI and LLMs** for societal impact, particularly in cross-cultural communication
 
-## 🌐 Publications:
-- **[Tibetan Tourism Viewpoints Information Generation System Based on LLM](https://arxiv.org/abs/2407.13561)**, ICWOC 2024
-- **[RAG-Optimized Tibetan Tourism LLMs](https://arxiv.org/abs/2408.12003)**, AIPR 2024
+## Academic Background
 
-## 🛠️ Technical Skills:
-- **Python**, **Machine Learning**, **Neo4j**, **Graph RAG**, **Vector Database**, **Chain of Thought**, **LangChain**
-- Pre-training and fine-tuning LLMs using **SFT/ORPO**
+- **Master of Science in Analytics**, University of Southern California (USC)  
+- **Bachelor of Science in Computer & Information Science**, University of Oregon (minor in Korean Studies)
 
-## 📬 Let’s Connect!
-I’m always excited to discuss research ideas, collaborations, or just chat about the future of AI. Feel free to [email me](mailto:qijinhu1218@gmail.com) or explore my [publications](https://arxiv.org/abs/2407.13561) for more details.
+## Research Focus
 
-_“Innovating today for a more connected, transparent, and efficient tomorrow!”_ 🌟
+- Development of **Large Language Models** with **Retrieval-Augmented Generation** and **Chain of Thought** techniques  
+- **Misinformation detection** and classification of offensive content on social media  
+- **Knowledge graph and vector database integration** to enhance AI reasoning and transparency
 
+## Selected Projects
+
+- **Graph-RAG**: Employing knowledge graphs to enhance transparency and interpretability in AI  
+- **Tibetan Tourism Recommender**: Addressing LLM hallucinations in smart tourism systems  
+- **Misinformation Detection**: Identifying and mitigating false information on YouTube and 4chan
+
+## Publications
+
+- **[Tibetan Tourism Viewpoints Information Generation System Based on LLM](https://arxiv.org/abs/2407.13561)**, ICWOC 2024  
+- **[RAG-Optimized Tibetan Tourism LLMs](https://arxiv.org/abs/2408.12003)**, AIPR 2024  
+
+## Technical Skills
+
+- **Python**, **Machine Learning**, **Neo4j**, **Graph RAG**, **Vector Databases**, **Chain of Thought**, **LangChain**  
+- Expertise in **Pre-training and Fine-tuning LLMs** through **SFT/ORPO**
+
+## Contact
+
+I welcome opportunities for research collaboration and discussions. Please feel free to [email me](mailto:qijinhu1218@gmail.com) or explore my [publications](https://arxiv.org/abs/2407.13561) for more details.
+
+_“Pursuing cutting-edge AI research to enhance cross-linguistic communication and build more transparent, reliable systems.”_  
 ------
 
