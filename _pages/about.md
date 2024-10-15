@@ -58,7 +58,7 @@ I am currently applying for PhD programs for Fall 2025, with the objective of ad
 
 ## Contact
 
-I welcome opportunities for research collaboration and discussions. Please feel free to [email me](mailto:qijinhu1218@gmail.com) or explore my [publications](https://arxiv.org/abs/2407.13561) for more details.
+I welcome opportunities for research collaboration and discussions. Please feel free to [email me](mailto:qijinhu1218@gmail.com) or explore my [publications](https://scholar.google.com/citations?user=chfNrdYAAAAJ&hl=en) for more details.
 
 _“Pursuing cutting-edge AI research to enhance cross-linguistic communication and build more transparent, reliable systems.”_  
 ------
